@@ -28,4 +28,4 @@ inside of any for loops and in any var that needs to changes its value.
 
 ##### How did it go with making the adaptation from concatenations to template literal notation? Do you think you'll mostly use template literal notation from now on?
 
-(Put your answer here)
+it went fine, I do not fully understand the reason behind them as they dont seem that mush easier to type or read. Ill have to keep using them and see what I prefer I guess. 
